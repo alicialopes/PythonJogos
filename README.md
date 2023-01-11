@@ -14,4 +14,8 @@ Sistema para escolher o jogo que você deseja jogar!
 
 ## 🔫 Forca 
 
-Em andamento...
+- Acerte a palavra aleatória antes de morrer;
+- Várias palavras com diferentes números de caracteres;
+- Mostra a quantidade de erros e o boneco sendo enforcado;
+- 7 chances de errar um chute;
+- Cita a resposta no final, caso o jogador perca.
